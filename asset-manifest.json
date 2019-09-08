@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccca1fb6.chunk.css",
-    "main.js": "/static/js/main.e78d59aa.chunk.js",
-    "main.js.map": "/static/js/main.e78d59aa.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.03d4972a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.03d4972a.js.map",
-    "static/js/2.4ee962de.chunk.js": "/static/js/2.4ee962de.chunk.js",
-    "static/js/2.4ee962de.chunk.js.map": "/static/js/2.4ee962de.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.718c27b3a9783b79741fb85cd50aaea1.js": "/precache-manifest.718c27b3a9783b79741fb85cd50aaea1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ccca1fb6.chunk.css.map": "/static/css/main.ccca1fb6.chunk.css.map"
+    "main.css": "/typify-demo/static/css/main.ccca1fb6.chunk.css",
+    "main.js": "/typify-demo/static/js/main.1cf7a53a.chunk.js",
+    "main.js.map": "/typify-demo/static/js/main.1cf7a53a.chunk.js.map",
+    "runtime~main.js": "/typify-demo/static/js/runtime~main.06038825.js",
+    "runtime~main.js.map": "/typify-demo/static/js/runtime~main.06038825.js.map",
+    "static/js/2.4ee962de.chunk.js": "/typify-demo/static/js/2.4ee962de.chunk.js",
+    "static/js/2.4ee962de.chunk.js.map": "/typify-demo/static/js/2.4ee962de.chunk.js.map",
+    "index.html": "/typify-demo/index.html",
+    "precache-manifest.d170451c1728f95bd02c878fc7095f9d.js": "/typify-demo/precache-manifest.d170451c1728f95bd02c878fc7095f9d.js",
+    "service-worker.js": "/typify-demo/service-worker.js",
+    "static/css/main.ccca1fb6.chunk.css.map": "/typify-demo/static/css/main.ccca1fb6.chunk.css.map"
   }
 }
